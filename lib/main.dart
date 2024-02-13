@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
             ),),
              TextFormField(
             decoration: const InputDecoration(
-              hintText: 'Enter your email',
+              hintText: 'Enter your email please',
               border: OutlineInputBorder()
             ),
             validator: (String? value) {
